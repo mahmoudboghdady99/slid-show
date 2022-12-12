@@ -1,0 +1,25 @@
+
+
+
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+    width: 80%;
+    margin: auto;
+
+}
+.container .text {
+    letter-spacing: 5px;
+    font-size: 50px;
+    background: linear-gradient(to right, blue, red,  yellow, green );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-weight: bold;
+}
+
+
+.container img {
+  width: 80%;
+  height: 400px;
+}
